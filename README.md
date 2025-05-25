@@ -6,7 +6,7 @@ Dataset untuk proyek ini dapat diunduh secara manual melalui tautan Google Drive
 
 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1O8MYehztw2lFpL20QKl3vFTSlGnhPC-M?usp=sharing)
 
-Mohon unduh semua file dataset dari folder tersebut dan letakkan di direktori `archive (9)/` atau sesuai struktur folder yang digunakan dalam kode.
+Mohon unduh semua file dataset dari folder tersebut dan letakkan di direktori `Dataset/` atau sesuai struktur folder yang digunakan dalam kode.
 
 ---
 
